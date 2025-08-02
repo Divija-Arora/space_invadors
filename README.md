@@ -3,8 +3,8 @@
 A fun arcade-style shooting game built in **Python** using the **Pygame** library. 
 Inspired by the classic *Space Invaders*, this game lets you defend Earth from waves of alien enemies!
 
-![Gameplay Screenshot](<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2b8b3b6a-8928-462a-bed6-22a373051e35" />
-) 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2b8b3b6a-8928-462a-bed6-22a373051e35" />
+
 
 ---
 
@@ -54,8 +54,7 @@ python spaceinvador.py
 ## 🖼️ Screenshots
 
 
-![Gameplay](<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ce21427f-9c21-4050-9830-cdd3b52f4094" />
-)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ce21427f-9c21-4050-9830-cdd3b52f4094" />
 
 ---
 
